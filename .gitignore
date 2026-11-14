@@ -1,2 +1,13 @@
+# Compiled Java files
 out/
 *.class
+
+# Generated source list
+.sources
+
+# Runtime parking records
+data/
+
+# IDE files
+.vscode/
+.idea/
